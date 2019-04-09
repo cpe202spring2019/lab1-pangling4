@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc637bd3-6c01-4b4c-be06-fed23da743d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location.py" beforeDir="false" afterPath="$PROJECT_DIR$/location.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_test_cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_test_cases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/location_tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,25 +15,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab1.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab1_test_cases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/location.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            <state relative-caret-position="-20">
+              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/location_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="82">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -48,6 +66,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/location.py" />
+        <option value="$PROJECT_DIR$/location_tests.py" />
+        <option value="$PROJECT_DIR$/lab1_test_cases.py" />
+        <option value="$PROJECT_DIR$/lab1.py" />
       </list>
     </option>
   </component>
@@ -62,10 +83,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,7 +107,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -101,7 +123,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in location_tests.py">
+  <component name="RunManager" selected="Python.lab1_test_cases">
+    <configuration name="lab1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab1-pangling4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab1_test_cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab1-pangling4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab1_test_cases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="location" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lab1-pangling4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,8 +203,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab1_test_cases" />
         <item itemvalue="Python tests.Unittests in location_tests.py" />
         <item itemvalue="Python.location" />
+        <item itemvalue="Python.lab1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,22 +224,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_location_tests_py - 2019.04.05 at 10h 52m 01s.xml">
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 24m 59s.xml">
       <configuration name="Unittests in location_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_location_tests_py - 2019.04.05 at 10h 55m 04s.xml">
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 25m 04s.xml">
       <configuration name="Unittests in location_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_location_tests_py - 2019.04.05 at 10h 57m 18s.xml">
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 25m 14s.xml">
       <configuration name="Unittests in location_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_location_tests_py - 2019.04.05 at 11h 10m 58s.xml">
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 25m 17s.xml">
       <configuration name="Unittests in location_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_location_tests_py - 2019.04.05 at 13h 51m 57s.xml">
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 25m 28s.xml">
       <configuration name="Unittests in location_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_location_tests_py - 2019.04.05 at 14h 04m 47s.xml">
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 26m 01s.xml">
+      <configuration name="Unittests in location_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 26m 09s.xml">
+      <configuration name="Unittests in location_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 26m 16s.xml">
+      <configuration name="Unittests in location_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 37m 05s.xml">
+      <configuration name="Unittests in location_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_location_tests_py - 2019.04.08 at 23h 40m 49s.xml">
       <configuration name="Unittests in location_tests.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -182,15 +260,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21207307" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3882979" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3776596" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -201,9 +279,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1184660488/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -213,18 +288,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/location.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        <state relative-caret-position="-20">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/location_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="82">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1_test_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
         </state>
       </provider>
     </entry>
